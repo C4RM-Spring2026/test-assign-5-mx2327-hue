@@ -1,2 +1,2 @@
 def WhoAmI():
-  return "mx2327-hue"
+  return('mx2327')
